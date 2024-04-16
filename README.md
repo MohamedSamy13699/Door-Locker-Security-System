@@ -42,5 +42,6 @@ Buzzer Driver: Integrated into CONTROL_ECU for alerting on security breaches or 
 
 
 State Machine:
-
+<img src= "https://github.com/MohamedSamy13699/Door-Locker-Security-System/blob/main/Door%20Locker%20Security%20System/FLOW%20CHART/flow%20chart.png">
 proteus:
+<img src= "https://github.com/MohamedSamy13699/Door-Locker-Security-System/blob/main/Door%20Locker%20Security%20System/Proteus/schmatic.PNG">
